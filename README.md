@@ -7,9 +7,9 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,androidstudio,nodejs,typescript,react,mysql,docker,linux)](https://skillicons.dev)
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisX21&rank_icon=github&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisX21&rank_icon=github&show_icons=true&theme=dracula)
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisX21&layout=compact)](https://github.com/ChrisX21)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisX21&layout=donut)](https://github.com/ChrisX21)
 
 <br>
