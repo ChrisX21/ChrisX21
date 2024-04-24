@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on developing a solution to beehive monitoring
-- 🌱 I’m currently learning Spring boot
+- 🌱 I’m currently learning <b>Spring Boot</b>
 - 📫 How to reach me: chrisalexiev@icloud.com or kristiyanalexiev@photonics.bg
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,androidstudio,nodejs,typescript,react,mysql,docker,linux)](https://skillicons.dev)
