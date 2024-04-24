@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**ChrisX21/ChrisX21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on developing a solution to beehive monitoring
+- 🌱 I’m currently learning Spring boot
+- 📫 How to reach me: chrisalexiev@icloud.com or kristiyanalexiev@photonics.bg
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,java,spring,androidstudio,nodejs,typescript,react,mysql,docker,linux)](https://skillicons.dev)
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisX21&rank_icon=github&show_icons=true&theme=tokyonight)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisX21&layout=compact)](https://github.com/ChrisX21)
+
+<br>
