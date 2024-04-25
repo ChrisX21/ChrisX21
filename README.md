@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on developing a solution to beehive monitoring
+- 🔭 I’m currently working on developing a solution to beehive monitoring and bee pollen collection 
 - 🌱 I’m currently learning <b>Spring Boot</b>
 - 📫 How to reach me: chrisalexiev@icloud.com or kristiyanalexiev@photonics.bg
 
